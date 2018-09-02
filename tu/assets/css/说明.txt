@@ -1,0 +1,2 @@
+styles:图片页调用
+styles2:hexo模板页调用
